@@ -6,3 +6,4 @@
 - Migrator: [tern](https://github.com/jackc/tern)
 - Tests: [testify](https://github.com/stretchr/testify)
 - Database Container For Testing: [testcontainers](https://testcontainers.com/)
+- Observability: [new relic](https://newrelic.com/)
