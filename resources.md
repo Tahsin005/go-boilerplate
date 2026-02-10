@@ -1,5 +1,3 @@
-## Backend
-
 - Framework: [echo](https://echo.labstack.com/)
 - Database Driver: [pgx](https://github.com/jackc/pgx)
 - Logging: [zerolog](https://github.com/rs/zerolog)
